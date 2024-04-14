@@ -7,7 +7,7 @@ This repository offers a collection of well-structured and reusable Mongoose obj
 
 **Getting Started:**
 
-1. **Clone the Repository:** git clone https://github.com/RajBhut/Data_Models
+1. **Clone the Repository:** ` git clone https://github.com/RajBhut/Data_Models `
 2. **Install Dependencies:**  make sure you make nodejs project first by `npm init`.
 3. Navigate to the cloned repository directory and run `npm install mongoose ` in your terminal to install the required dependencies for the Mongoose models to function.
 
